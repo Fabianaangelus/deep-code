@@ -1,0 +1,23 @@
+fieldset{
+    height: 150px;
+    width: 10%
+}
+body{
+    font-family: Arial, Helvetica, sans-serif    
+}
+legend{
+    color: red;
+    font-style: italic;
+}
+
+input{
+    color: white;
+    background-color: black;
+}
+
+#enviar{
+    background-color: lightgray;
+    color: black;
+    width: 100%;
+}
+
